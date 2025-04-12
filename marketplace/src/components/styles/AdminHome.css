@@ -1,0 +1,21 @@
+.admin-home{
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    padding: 3rem;
+}
+
+.accion-button {
+    padding: 5px 8px;
+    margin: 2px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.accion-button:hover {
+    background-color: #0056b3;
+}
